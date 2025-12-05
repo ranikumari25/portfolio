@@ -1,0 +1,14 @@
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.navbar{
+    position: fixed;
+    background: slateblue;
+}
+body{
+    font-size: 30px;
+    background: #434852;
+}
+
